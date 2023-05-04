@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738406477979",
+    "project_id": "vimleshorganics",
+    "storage_bucket": "vimleshorganics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738406477979:android:4bee0fa3ff0ab655db163e",
+        "android_client_info": {
+          "package_name": "com.vimleshorganics.buyerdetails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738406477979-u9tbl4cis3g005961ps1fr0np35dmejo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vimleshorganics.buyerdetails",
+            "certificate_hash": "8d7982beec5aa801e923382ba9c36833581a86ed"
+          }
+        },
+        {
+          "client_id": "738406477979-00qo1e85sqgltve5q12dm6r3j3e2eq0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Zyrj_Tt4boYX9q0SvubWYznQV2P4bWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738406477979-00qo1e85sqgltve5q12dm6r3j3e2eq0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
